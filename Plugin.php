@@ -74,7 +74,7 @@ class Comment2Wechat_Plugin implements Typecho_Plugin_Interface
         $sckey = $options->plugin('Comment2Wechat')->sckey;
 
         $text = "有人在您的博客发表了评论";
-        $desp = "**".$comment['author']."** 在你的博客中说到：\n\n > ".$comment['text'];
+        $desp = "**".$comment['author']."** 在 [「".$post->title."」](".$post->permalink." \"".$post->title."\") 中说到: \n\n > ".$comment['text'];
 
         $postdata = http_build_query(
             array(
