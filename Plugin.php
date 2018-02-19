@@ -4,7 +4,7 @@
  * 
  * @package Comment2Wechat
  * @author Y!an
- * @version 1.0.0
+ * @version 1.1.0
  * @link https://yian.me
  */
 class Comment2Wechat_Plugin implements Typecho_Plugin_Interface
