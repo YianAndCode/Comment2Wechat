@@ -2,7 +2,7 @@
 
 > Typecho 插件——新评论微信通知 
 
-**⚠ 由于微信服务号在 2021.04.30 对模板消息规则做了调整，建议使用 [Comment2Fanwan](https://github.com/YianAndCode/Comment2Fanwan) 代替本插件**
+**⚠⚠ 由于微信服务号将调整模板消息规则，且Server酱在 2021.05.30 发布了一篇[《sc.ftqq.com 分期下线通知和常见问题解答》](https://mp.weixin.qq.com/s/KGQC1v5rsG_JKVRtN2DY4w)，本插件即日起停止维护，建议使用 [Comment2Fanwan](https://github.com/YianAndCode/Comment2Fanwan) 代替本插件**
 
 
 ## 感谢
